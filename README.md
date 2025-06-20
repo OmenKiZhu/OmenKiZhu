@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋    Now ---- I am doing an intership in Meituan
 
 I am a graduate student in the School of Information Science and Technology at Southwest Jiaotong University, majoring in Computer Science. I'm very happy to be sharing code repositories and learning resources from experienced developers on GitHub. My main focus is on Java and Python, and I am currently interning in Shanghai. I am preparing to look for summer internships for the 2025 cohort next year. If anyone could provide me with any good internal referral opportunities, I would be extremely grateful.
 
